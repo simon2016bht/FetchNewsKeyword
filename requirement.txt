@@ -1,0 +1,10 @@
+jupyterlab
+nodejs>=8
+wordcloud
+matplotlib
+requests
+pandas
+selenium
+beautifulsoup4
+xlrd>=1
+openpyxl
