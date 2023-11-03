@@ -1,6 +1,5 @@
 jupyterlab
 nodejs>=8
-wordcloud
 matplotlib
 requests
 pandas
@@ -8,6 +7,3 @@ selenium
 beautifulsoup4
 xlrd>=1
 openpyxl
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNTExNDEwM119
--->
